@@ -1,5 +1,7 @@
 # Trabalho 1 - Fundamentos de Sistemas Computacionais
 
+O arquivo pode ser visto também no [GitHub](https://github.com/NicholasLuz/T1_Fundamentos_Sistemas_Computacionais/).
+
 <h2>Integrantes</h2>
 
 - Adrielle Dewes
